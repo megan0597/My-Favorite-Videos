@@ -1,0 +1,113 @@
+
+.container {
+    margin: auto;
+    max-width: 800px;
+    display: none;
+}
+
+
+
+.favoriteDiv img {
+    margin: 5px;
+    display: inline-block;
+}
+
+.favoriteDiv {
+    float: left;
+    display: block;
+    max-width: 260px;
+    margin-left: -135px;
+}
+
+#find {
+    display: block;
+    float: right;
+}
+
+#show{
+    position: fixed;
+    top: 50%;
+    right: 0;
+    font-size: 20px;
+    font-weight: 900;
+}
+
+
+.show {
+    display: block;
+}
+
+.hide {
+    display: none;
+}
+
+
+#first-title {
+    font-family: 'Antic Slab', serif;
+    margin-left: 95px;
+}
+
+.first-videoiframe {
+    margin-left: 10px;
+}
+
+#first-videos {
+    margin-left: -2px;
+    max-width: 593px;
+}
+
+#first-videos img {
+    margin: 13px;
+    display: inline-block;
+}
+
+#title {
+    font-family: 'Antic Slab', serif;
+    margin-left: -142px;
+}
+
+#secondtitle {
+    font-family: 'Antic Slab', serif;
+    font-size: 32px;
+    margin-top: -60px;
+    margin-left: 226px;
+}
+
+#search {
+    margin-right: 382px;
+    margin-bottom: 10px;
+}
+
+#search input {
+    margin: 5px;
+}
+
+#currentVideo {
+    margin-left: 6px;
+}
+
+#currentVideo input {
+    margin: 5px;
+    margin-left: -1px;
+    margin-top: 10px;
+}
+
+#videos {
+    margin-left: -6px;
+}
+
+#videos img {
+    margin: 13px;
+}
+
+#main-container {
+    margin-left: 145px;
+}
+
+#first-container {
+    margin-left: 330px;
+}
+
+@media (min-width: 600px) {
+
+}
